@@ -27,7 +27,7 @@ I'm always excited to collaborate and connect with fellow developers and designe
 
 - Email: Smail.Dahmani.98@gmail.com
 - LinkedIn: [Dahmani Smail]([linkedin_profile_link](https://www.linkedin.com/in/smail-d-6191a712a/))
-- Twitter: [@YourTwitterHandle]([twitter_profile_link](https://twitter.com/smldahmani))
+- Twitter: [@smldahmani]([twitter_profile_link](https://twitter.com/smldahmani))
 
 Don't hesitate to get in touch if you have any questions, ideas, or just want to say hello! 😄
 
