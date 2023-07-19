@@ -1,35 +1,48 @@
-# Hi, I'm Smail Dahmani 👩🏻‍💻
+# Hey there! I'm Dahmani Smail 👋🏻
 
-Welcome to my GitHub profile! I'm an app developer and Graphic designer with a Master's degree in CS. I enjoy building innovative and user-friendly applications while exploring various technologies and frameworks.
+Welcome to my GitHub profile! I'm a passionate app developer and Graphic designer with a Master's degree in Computer Science. I enjoy creating exceptional user experiences through elegant and efficient code.
 
-## Skills
+## 🚀 About Me
 
-- Java
-- JavaScript
-- Python
-- ReactJS
-- HTML
-- CSS
-- SASS
-- NextJS
-- Node.js
-- ExpressJS
-- MongoDB
-- Firebase
-- PSQL
-- Figma
-- Illustrator
-- Photoshop
+I am constantly driven by the desire to learn and explore new technologies. Whether it's developing scalable backend systems, crafting beautiful frontend interfaces, or designing eye-catching graphics, I always strive for excellence. My goal is to make a positive impact on people's lives by creating innovative and user-friendly applications.
 
-Feel free to explore my repositories to see my work.
+## 🔧 Skills & Technologies
 
-## Contact
+- Languages: Java, JavaScript (JS), Python
+- Frontend: ReactJS, HTML, CSS, SASS
+- Backend: Node.js, ExpressJS
+- Databases: MongoDB, Firebase, Supabase, Prisma
+- Other: NextJS, Git, RESTful APIs
 
-You can reach out to me via email at Smail.Dahmani.98@gmail.com. I'm open to collaborations and would love to connect with fellow developers and designers.
+## 🚀 Projects
 
-## Contributions
+Here are a few exciting projects I've worked on:
+🏗️🚧 under construcation 
 
-I'm open to collaborations and contributions on my projects. If you're interested in contributing, please reach out to me via the contact information mentioned above.
+Feel free to explore my repositories to see more of my work!
 
-Let's collaborate and build amazing things together!
+## 📫 Let's Connect
+
+I'm always excited to collaborate and connect with fellow developers and designers. You can reach out to me through the following channels:
+
+- Email: Smail.Dahmani.98@gmail.com
+- LinkedIn: [Dahmani Smail]([linkedin_profile_link](https://www.linkedin.com/in/smail-d-6191a712a/))
+- Twitter: [@YourTwitterHandle]([twitter_profile_link](https://twitter.com/smldahmani))
+
+Don't hesitate to get in touch if you have any questions, ideas, or just want to say hello! 😄
+
+## 🤝 Contributions
+
+I believe that great things are achieved through collaboration. I'm open to collaborations and contributions on my projects. If you're interested in working together, please feel free to reach out.
+
+## 📊 Stats
+
+Here are some interesting stats about my GitHub activity:
+
+- Total commits: X
+- Total pull requests: X
+- Followers: X
+- Stars: X
+
+Let's build amazing things together and leave a mark in the tech world! 🚀
 
